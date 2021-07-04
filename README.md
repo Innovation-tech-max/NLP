@@ -10,7 +10,7 @@ Day 1 description- Chapter 1 Language Processing with Python (1.1 Computing with
 Day 2 description- Chapter 1 Language Processing with Python (1.2 A Closer Look at Python: Texts as Lists of Words,
 1.3 Computing with Language: Simple Statistics)
 
-Day2 description- Chapter1 Language Processing with Python (1.4 Back to Python: Making Decisions and Taking Control), Chapter2 Accessing Text Corpora
-and Lexical Resources (2.1 Accessing Text Corpora)
+Day2 description- Chapter1 Language Processing with Python (1.4 Back to Python: Making Decisions and Taking Control), 
+Chapter2 Accessing Text Corpora and Lexical Resources (2.1 Accessing Text Corpora)
 
 
